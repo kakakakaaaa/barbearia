@@ -1,49 +1,49 @@
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barbearia Alura</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 1em;
-            text-align: center;
-        }
-        section {
-            padding: 20px;
-            text-align: center;
-        }
-        footer {
-            background-color: #333;
-            color: #e06d6d;
-            padding: 1em;
-            text-align: center;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Barbearia Alura</h1>
-    </header>
-    <section>
-        <h2>Bem-vindo à Barbearia Alura</h2>
-        <p>Oferecemos cortes de cabelo, barba, e muito mais para manter você com um visual impecável.</p>
-        <p>Agende seu horário agora!</p>
-    </section>
-    <footer>
-        <p>&copy; 2023 Barbearia Alura</p>
-    </footer>
-</body>
-</html>
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Barbearia Alura</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+            }
+            header {
+                background-color: #333;
+                color: #fff;
+                padding: 1em;
+                text-align: center;
+            }
+            section {
+                padding: 20px;
+                text-align: center;
+            }
+            footer {
+                background-color: #333;
+                color: #fff;
+                padding: 1em;
+                text-align: center;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Barbearia Alura</h1>
+        </header>
+        <section>
+            <h2>Bem-vindo à Barbearia Alura</h2>
+            <p>Oferecemos cortes de cabelo, barba, e muito mais para manter você com um visual impecável.</p>
+            <p>Agende seu horário agora!</p>
+        </section>
+        <footer>
+            <p>&copy; 2023 Barbearia Alura</p>
+        </footer>
+    </body>
+    </html>
